@@ -51,11 +51,11 @@ instenso de frontend a cargo del increible MC Romarpla, donde aprendi:
   - SRUM 
  
  A continuación comparto algunas practicas que hice con lo que aprendí:
- [Diseño UI de Abogabot](https://www.figma.com/file/dBrazU88C26RuqTIfm27Aw/Dise%C3%B1o-UI%2FUX-Abogabot?node-id=0%3A1)
- [Diseño UI de Pasteleria](https://www.figma.com/proto/yCDYqNLz5PSNS1WKHy66re/Wirefrime-Pasteleria?node-id=1%3A2&starting-point-node-id=1%3A2)
- [Pagina pasteleria](https://pateleriahalley.azurewebsites.net/)
- [Pagina Vacuna](https://luceroluciano.github.io/paginaWeb-vacuna/)
- [Pokedex](https://luceroluciano.github.io/Pokedex-LaunchX/)
+ - [Diseño UI de Abogabot](https://www.figma.com/file/dBrazU88C26RuqTIfm27Aw/Dise%C3%B1o-UI%2FUX-Abogabot?node-id=0%3A1)
+ - [Diseño UI de Pasteleria](https://www.figma.com/proto/yCDYqNLz5PSNS1WKHy66re/Wirefrime-Pasteleria?node-id=1%3A2&starting-point-node-id=1%3A2)
+ - [Pagina pasteleria](https://pateleriahalley.azurewebsites.net/)
+ - [Pagina Vacuna](https://luceroluciano.github.io/paginaWeb-vacuna/)
+ - [Pokedex](https://luceroluciano.github.io/Pokedex-LaunchX/)
  
  Se que mis practicas son algo sencillas (de hecho son muy sencillas), pero estoy muy contenta
  por todo lo que he aprendido y ahora se que tengo mucho por poner en practica para mejorar,
