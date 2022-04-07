@@ -9,16 +9,16 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis espectativas para este proyecto son:
 
-- Aprender Git y GitHub 🤓
+- Aprender Git y GitHub
 - Aplicar mis conocimientos de front-end 🎨🖌
 - Aprender a diseñar back-end 👩‍💻
-- Aprender nodejs 🛰
-- Aprender a crear APIs con nodejs 🛸
-- Aprender a diseñar bases de datos 🎨🖌
+- Aprender nodejs
+- Aprender a crear APIs con nodejs
+- Aprender a diseñar bases de datos
 - Estudiar mi Sistema Operativo para conocerlo mejor 💻
 - Estudiar mi editor de código para saber como funciona 💻
-- Unir fron-end ➕ back-end 🎨🖌👩‍💻
+- Unir fron-end y back-end
 - Compartir mas 🙌
-- Hacer muchxs amigxs 🤝✨
+- Hacer muchxs amigxs 🤝
 
 🚀
