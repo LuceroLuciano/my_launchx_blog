@@ -18,7 +18,11 @@ conocer culturas, compartir y resolver dudas. Me gutsta experimetar con los serv
 Custom Vision para clasificar imagnes o identificar algunas en especifico, tambien me gustan los servicios de QnAMaker 
 para hacer bots, eso es increible, en resumen, me gusta andar en la nube sobre todo en Azure. 
 Amo las plantas y todo el proceso que siguen desde que son semillas hasta convertirse en hermosas fores. 
-Me gusta ayudar y compartir lo poco que se, mi autor favorito es Og Mandino y en mi tiempo libre me guta mucho andar en bici.
+Me gusta ayudar y compartir lo poco que se, mi autor favorito es Og Mandino, mi banda favorita es Coldplay
+y en mi tiempo libre me guta mucho andar en bici.
+
+
+
 
 
 "La vida no es una carrera, es un viaje. Disfrutalo." 
