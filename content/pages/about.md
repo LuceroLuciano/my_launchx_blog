@@ -1,21 +1,26 @@
 ---
-title: 'About me'
+title: 'Sobre mí'
 menu:
   main:
-    name: "AboutMe"
+    name: "SobreMi"
 ---
 
-## Who am I
+## ¿Quien soy?
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+¡Hola!, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+> **Soy Lucero ✨**, del bello Estado de México, lugar donde la cultura es una mezcla de sabores y colores.
+Acabo de egresar de la carrera de Ingeniería en Sistemas Computacionales. Me encanta el mundo de la tecnología 
+y me gustaría especializarme en Ciencia de Datos e Inteligencia Artificial. Me facinan las comunidades 
+del area tech porque es una forma muy cool de aprender de forma divertida y de hacer networking, 
+conocer culturas, compartir y resolver dudas. Me gutsta experimetar con los servicios de Azure, sobre todo con 
+Custom Vision para clasificar imagnes o identificar algunas en especifico, tambien me gustan los servicios de QnAMaker 
+para hacer bots, eso es increible, en resumen, me gusta andar en la nube sobre todo en Azure. 
+Amo las plantas y todo el proceso que siguen desde que son semillas hasta convertirse en hermosas fores. 
+Me gusta ayudar y compartir lo poco que se, mi autor favorito es Og Mandino y en mi tiempo libre me guta mucho andar en bici.
+
+
+"La vida no es una carrera, es un viaje. Disfrutalo." 
+"Si quieres aumentar tus éxitos, tienes que duplicar tus fracasos." -Thomas J. Watson
 
