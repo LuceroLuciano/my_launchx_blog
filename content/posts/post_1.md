@@ -63,13 +63,13 @@ instenso de frontend a cargo del increible MC Romarpla, donde aprendi:
  
  ## Lo mas dificíl de la misión LaunchX 🚀
  
- Hasta ste punto de la misión LaunchX lo mas dificil para mi ha sido lo siguiente:
+ Hasta este punto de la misión LaunchX lo mas dificil para mi ha sido lo siguiente:
  
- - No poder instalr Jupyter Notebook en Linux Ubuntu (Lo solucione instalndo en Windows :) )
+ - No poder instalar Jupyter Notebook en Linux Ubuntu (Lo solucione instalando en Windows :) )
  
- - Entender VUE (Actualemtente se me esta complicando entender este framework, sobretodo la parte de estados con VUEX)
+ - Entender VUE (Actualmente se me esta complicando entender este framework, sobretodo la parte de estados con VUEX)
  
- - CSS es facil de aprender pero dificl de dominar, aun me cuesta centrar un div, pero es como jugar, le muevo aqui y allá
- y funciona, aunque hacer mis paginas web responsive es un todo un reto para mi. 
+ - CSS es facil de aprender pero dificil de dominar, aún me cuesta centrar un div, pero es como jugar, le muevo aqui y allá
+ y funciona, aunque hacer mis paginas web responsive es todo un reto para mi. 
  
  
