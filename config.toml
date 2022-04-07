@@ -1,6 +1,6 @@
 baseURL = "https://luceroluciano.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje de Lucero Luciano"
+title = "Bitácora de Viaje de Lucero"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
