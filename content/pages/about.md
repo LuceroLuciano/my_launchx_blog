@@ -27,5 +27,5 @@ y en mi tiempo libre me guta mucho andar en bici.
 
 
 #### Aqui les dejo unas imagenes de mi compañeras en el dia a dia
-[Flor1](https://github.com/LuceroLuciano/my_launchx_blog/blob/master/static/images/flor1.jpeg)
-[Flor2](https://github.com/LuceroLuciano/my_launchx_blog/blob/master/static/images/flor2.jpeg)
+![Flor1](https://github.com/LuceroLuciano/my_launchx_blog/blob/master/static/images/flor1.jpeg)
+![Flor2](https://github.com/LuceroLuciano/my_launchx_blog/blob/master/static/images/flor2.jpeg)
