@@ -25,7 +25,3 @@ y en mi tiempo libre me guta mucho andar en bici.
 "La vida no es una carrera, es un viaje. Disfrutalo." 
 "Si quieres aumentar tus éxitos, tienes que duplicar tus fracasos." -Thomas J. Watson
 
-
-#### Aqui les dejo unas imagenes de mi compañeras en el dia a dia
-![Flor1](https://github.com/LuceroLuciano/my_launchx_blog/blob/master/static/images/flor1.jpeg)
-![Flor2](https://github.com/LuceroLuciano/my_launchx_blog/blob/master/static/images/flor2.jpeg)
