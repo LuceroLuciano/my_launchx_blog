@@ -21,7 +21,6 @@ Amo las plantas y todo el proceso que siguen desde que son semillas hasta conver
 Me gusta ayudar y compartir lo poco que se, mi autor favorito es Og Mandino, mi banda favorita es Coldplay
 y en mi tiempo libre me guta mucho andar en bici.
 
-![Flor](https://github.com/LuceroLuciano/my_launchx_blog/blob/master/static/images/flor1.jpeg)
 
 "La vida no es una carrera, es un viaje. Disfrutalo." 
 "Si quieres aumentar tus éxitos, tienes que duplicar tus fracasos." -Thomas J. Watson
