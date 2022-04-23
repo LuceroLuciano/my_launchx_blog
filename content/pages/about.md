@@ -2,7 +2,7 @@
 title: 'Sobre mí'
 menu:
   main:
-    name: "About Me"
+    name: "About"
 ---
 
 ## ¿Quien soy?
@@ -17,7 +17,7 @@ del area tech porque es una forma muy cool de aprender de forma divertida y de h
 compartir y resolver dudas.
 Amo las plantas y todo el proceso que siguen desde que son semillas hasta convertirse en hermosas flores. 
 Me gusta ayudar y compartir lo poco que se, mi autor favorito hasta el momento es Og Mandino. 
-En mi tiempo libre me gusta mucho andar en bici🚴🚴‍♂️.
+En mi tiempo libre me gusta mucho andar en bici 🚴‍♂️.
 
 
 "La vida no es una carrera, es un viaje. Disfrutalo." 
