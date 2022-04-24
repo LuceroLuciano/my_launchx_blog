@@ -7,7 +7,7 @@ description: 'En este post estare compartiendo mi aprendizaje sobre objetos y cl
 # Hola de nuevo!, ¿Sabías que somos objetos?.
 
 Un pocoo de contexto. Los objetos son cosas de la videa real, sí, son todas aquellas cosas que puedes 
-ver o tocoar, por ejemplo: una guitarra, un lapiz, una planta, un perro o un gato, ademas de 
+ver o tocar, por ejemplo: una guitarra, un lapiz, una planta, un perro o un gato, ademas de 
 ser seres vivos son objetos como nosotros pero, ¿qué tienen en comun todos ellos?, sencillo, todos y
 cada uno de los objetos mencionados tienen: 
   - nombre
@@ -17,10 +17,10 @@ cada uno de los objetos mencionados tienen:
   - raza (en el el caso del perro y el gato)
   - edad
 
-Todos estos atributos son carateristicas de un objeto y a continuacón te mostrare como se crea un objeto
+Todos estos atributos son caracteristicas de un objeto y a continuacón te mostrare como se crea un objeto
 en Java Script.
 
-1. Crear una variable que contendra los atributos del objeto. Ejemplo:
+  1.-Crear una variable que contendra los atributos del objeto. Ejemplo:
 ```
   const dog = {
     name: "Raspi",
@@ -29,16 +29,16 @@ en Java Script.
     size: 50    
   }
   
-  console.log(gog)
+  console.log(dog)
 ```
-2. Crear un objeto _humano_ con sus atributos (Por esta razón es que somos objetos, porque tenemos caracteristicas, en programación
+  2.-Crear un objeto _humano_ con sus atributos (Por esta razón es que somos objetos, porque tenemos caracteristicas, en programación
   son conocidos como **Atributos**).
 Para este ejemplo los atributos son los siguientes:
 - nombre
 - edad
 - genero
 - nacionalidad
-- actividades que reaiza: comer, caminar, trabajar, estudiar, dormir
+- actividades que realiza: comer, caminar, trabajar, estudiar, dormir
 
 Ahora modelemos el objeto. Ejemplo:
 ```
@@ -58,7 +58,7 @@ Las clases son el molde con el que podemos crear n cantidad de objetos, por ejem
 dentro de esta clase hay objetos como, hombres, mujeres, niños, niñas, adultos, etc. Para entender este 
 concepto, veamos un ejemplo.
 
-1. Para este caso hablaremos de animales. Como primer punto, tendremos una clase animal, con los siguientes parametros:
+  1.-Para este caso hablaremos de animales. Como primer punto tendremos una clase animal, con los siguientes caracteristicas:
 - nombre, raza, edad, alimentación
   ```
     class Animal {
@@ -86,9 +86,9 @@ concepto, veamos un ejemplo.
     
   ```
 CONCEPTOS NUEVOS: 
-**Constructor** es para inicializar los valores de un objeto
-**this** es una palabra reservada de Java Script para hacer referencia a los valores del objeto
-**Instanciar un objeto** es crear un nuevo objeto con los valores definidos en la clase
+- **Constructor** es para inicializar los valores de un objeto
+- **this** es una palabra reservada de Java Script para hacer referencia a los valores del objeto
+- **Instanciar un objeto** es crear un nuevo objeto con los valores definidos en la clase
 
 Objetos sin clase:
 ```
