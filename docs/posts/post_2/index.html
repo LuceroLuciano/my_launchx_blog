@@ -59,7 +59,122 @@
       
     </div>
     <div class="content">
-      <h1 id="hey-este-es-el-contenido-del-nuevo-post-borra-esto-y-llena-tu-contenido">Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.</h1>
+      <h1 id="hola-de-nuevo-sabías-que-somos-objetos">Hola de nuevo!, ¿Sabías que somos objetos?.</h1>
+<p>Un pocoo de contexto. Los objetos son cosas de la videa real, sí, son todas aquellas cosas que puedes
+ver o tocoar, por ejemplo: una guitarra, un lapiz, una planta, un perro o un gato, ademas de
+ser seres vivos son objetos como nosotros pero, ¿qué tienen en comun todos ellos?, sencillo, todos y
+cada uno de los objetos mencionados tienen:</p>
+<ul>
+<li>nombre</li>
+<li>color</li>
+<li>tamaño</li>
+<li>material (en el caso de la guitarra y el lapíz)</li>
+<li>raza (en el el caso del perro y el gato)</li>
+<li>edad</li>
+</ul>
+<p>Todos estos atributos son carateristicas de un objeto y a continuacón te mostrare como se crea un objeto
+en Java Script.</p>
+<ol>
+<li>Crear una variable que contendra los atributos del objeto. Ejemplo:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">  const dog = {
+    name: &#34;Raspi&#34;,
+    age: 2
+    color: &#34;Black&#34;
+    size: 50    
+  }
+  
+  console.log(gog)
+</code></pre></div><ol start="2">
+<li>Crear un objeto <em>humano</em> con sus atributos (Por esta razón es que somos objetos, porque tenemos caracteristicas, en programación
+son conocidos como <strong>Atributos</strong>).
+Para este ejemplo los atributos son los siguientes:</li>
+</ol>
+<ul>
+<li>nombre</li>
+<li>edad</li>
+<li>genero</li>
+<li>nacionalidad</li>
+<li>actividades que reaiza: comer, caminar, trabajar, estudiar, dormir</li>
+</ul>
+<p>Ahora modelemos el objeto. Ejemplo:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">  const human = {
+    name: &#34;Yuri&#34;,
+    age: 20
+    gender: &#34;Female&#34;
+    nationality: &#34;Japanese&#34;
+    activities: [&#34;Eat&#34;, &#34;Walk&#34;, &#34;Work&#34;, &#34;Study&#34;, &#34;Sleep&#34;]
+  }
+  
+  console.log(human)
+</code></pre></div><h3 id="clases">Clases</h3>
+<p>Las clases son el molde con el que podemos crear n cantidad de objetos, por ejemplo; la clase humana,
+dentro de esta clase hay objetos como, hombres, mujeres, niños, niñas, adultos, etc. Para entender este
+concepto, veamos un ejemplo.</p>
+<ol>
+<li>Para este caso hablaremos de animales. Como primer punto, tendremos una clase animal, con los siguientes parametros:</li>
+</ol>
+<ul>
+<li>nombre, raza, edad, alimentación
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">  class Animal {
+    constructor(name, breed, age, food){
+      this.name = name
+      this.breed = breed
+      this.age = age
+      this.food = food
+    }
+  }
+
+  // Aqui creamos un objeto y a esto se le llama (INSTANCIAR OBJETO)
+  const dog = new Animal(&#34;Astro&#34;, &#34;Pastor Aleman&#34;, 3, &#34;Croqueta Chapete&#34;)
+  console.log(dog)
+
+  //Aqí creamos un segundo objeto (INSTANCIAMOS OBJETO 2)
+  const cat = new Animal(&#34;Kiera&#34;, &#34;Michi&#34;, 3, &#34;Wiskas&#34;)
+  console.log(cat)
+
+  const cat2 = new Animal(&#34;Kucha&#34;, &#34;Silvestre&#34;, 5, &#34;Atun&#34;)
+  console.log(cat2)
+
+  const cat3 = new Animal(&#34;Bruno&#34;, &#34;Silvestre&#34;, 1, &#34;Croquetas gato fiel&#34;)
+  console.log(cat3)               
+
+</code></pre></div></li>
+</ul>
+<p>CONCEPTOS NUEVOS:
+<strong>Constructor</strong> es para inicializar los valores de un objeto
+<strong>this</strong> es una palabra reservada de Java Script para hacer referencia a los valores del objeto
+<strong>Instanciar un objeto</strong> es crear un nuevo objeto con los valores definidos en la clase</p>
+<p>Objetos sin clase:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">  // Objetos sin clase
+    
+    const cat = {
+      name: &#34;Kiera&#34;,
+      breed: &#34;Michi&#34;,
+      age: 3,
+      food: &#34;Wiskas&#34;
+    }    
+    console.log(cat)
+    
+    const cat2 = {
+      name: &#34;Kucha&#34;,
+      breed: &#34;Silvestre&#34;,
+      age: 5,
+      food: &#34;Atun&#34;,
+    }    
+    console.log(cat2)
+    
+    const cat3 = {
+      name: &#34;Bruno&#34;,
+      breed: &#34;Silvestre&#34;,
+      age: 1,
+      food: &#34;Croquetas gato fiel&#34;
+    }    
+    console.log(cat3)
+</code></pre></div><p>Como viste en el ejemplo anterior, las clases nos ayudan a reutilizar código y nos ayudan bastante para optimizar
+un proyecto, qué pasaria si NO utilizaras clases y tuvieras que crear/escribir las caracteristicas de 10 michis,
+talvez seria facil para 10 michis, pero, ¿Qué pasaria si fueran 100, 1000 o más michis? 😱</p>
+<h4 id="gracias-por-leerme-nos-vemos-en-el-siguiente-post-">Gracias por leerme. Nos vemos en el siguiente post 🚀.</h4>
 
     </div>
   </div>
