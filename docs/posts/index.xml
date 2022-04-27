@@ -13,7 +13,7 @@
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://luceroluciano.github.io/my_launchx_blog/posts/post_3/</guid>
-      <description>Bienvenidx a mi nuevo post 🛸 En este post quiero agradecerte por el tiempo que te tomas a leer lo que escribo y esque yo solo comparto lo que mi MC Carlo me enseña. Hoy quiero explicarte la diferencia que existe entre == y ===
+      <description>Bienvenidx a mi nuevo post 🛸 En este post quiero agradecerte por el tiempo que te tomas a leer lo que escribo y esque yo solo comparto lo que mi MC Carlo me enseña ⭐. Hoy quiero explicarte la diferencia que existe entre == y ===
 1.- == Compara solo los valores, sin importar el tipo de dato. Para el caso del siguiente ejemplo la respuesta es true. Ejemplo:
 let numberOne = 3 let numberTwo = &amp;#34;3&amp;#34; console.</description>
     </item>
