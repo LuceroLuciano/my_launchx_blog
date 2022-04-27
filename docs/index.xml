@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Lucero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://luceroluciano.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://luceroluciano.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diferencia entre == y === en JS</title>
+      <link>https://luceroluciano.github.io/my_launchx_blog/posts/post_3/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://luceroluciano.github.io/my_launchx_blog/posts/post_3/</guid>
+      <description>Bienvenidx a mi nuevo post 🛸 En este post quiero agradecerte por el tiempo que te tomas a leer lo que escribo y esque yo solo comparto lo que mi MC Carlo me enseña. Hoy quiero explicarte la diferencia que existe entre == y ===
+1.- == Compara solo los valores, sin importar el tipo de dato. Para el caso del siguiente ejemplo la respuesta es true. Ejemplo:
+let numberOne = 3 let numberTwo = &amp;#34;3&amp;#34; console.</description>
+    </item>
+    
     <item>
       <title>Creación de objetos y clases en JS</title>
       <link>https://luceroluciano.github.io/my_launchx_blog/posts/post_2/</link>
