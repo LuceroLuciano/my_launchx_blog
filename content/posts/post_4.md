@@ -88,31 +88,31 @@ Fuerón muchas las respuestas de los explores, algunos miedos eran distintos mie
 76. Ser conciderado viejo
 77. Talvez no sea lo mio
 78. Nunca llegar a ser senior
-79. Que mi trabajo se adjudique a laguien mas y yo se ainvisible
+79. Que mi trabajo se adjudique a alguien mas y yo se invisible
 80. No saber a quien preguntar dudas sin ser criticado
 81. No poder adaptarme al ritmo de trabajo y ser una carga
 82. No lograr ser suficientemente bueno para aplicar a un empleo
 83. No recordar como hacer las cosas
 84. No cumplir con los tiempos
-85. Sentir que no aprto realmente algo
+85. Sentir que no aporto realmente algo
 86. Pasar demasiado tiempo aprendiendo y nunca ponerlo en practica
 87. Que termine haciendo otra cosa diferente a lo que estoy aprendiendo
 88. No saber como manejar un proyecto grande
 89. No entender el código
 90. Ser Jr y que te quieran tratar como si lo supieras todo
-91. Un masl ambiente laboral
+91. Un mal ambiente laboral
 92. Un jefe que no sepa nada de código y exija tiempos imposibles
 93. Que las oportunidades se me pasen por mis inseguridades
 94. Que algo de la producción falle por mi culpa
 95. Malos equipos de trabajo
 96. No ser suficientemente creativo para dar soluciones
 97. Subestimación por ser mujer o actuen de mala fe en contra de mi
-98. Terner un trabajo abusivo 
-99. No aprender lo sificientemente rapido
+98. Tener un trabajo abusivo 
+99. No aprender lo suficientemente rapido
 100. Sentirme inutil y no creer en mi
 
 
-La lista contua, quiza ser repitieron algunos miedos o se ecribierón con otras palabras pero tienen el mismo significado, la lista son todos los miedos de cada uno de los explorers y nuestro MC. 
+La lista contua, quiza se repitieron algunos miedos o se escribierón con otras palabras pero tienen el mismo significado, la lista son todos los miedos de cada uno de los explorers y nuestro MC. 
 
 En mi caso, mis mayores tres miedos respecto a ser una desarrolladora de software son:
 1. No saber hacer algo de lo que me piden
