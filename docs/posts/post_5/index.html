@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Creación de objetos y clases en JS - Bitácora de Viaje de Lucero</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="https://luceroluciano.github.io/my_launchx_blog/favicon.png">
+
+  
+  
+  <link rel="stylesheet" href="../../css/style.min.4f4767d518839223786999cdb69fc7a63791220ecccd236bc732a5f998aaee2d.css">
+  
+
+  
+    <meta name="description" content="En este post estare compartiendo mi aprendizaje sobre objetos y clases con JS"/>
+    <meta property="og:title" content="Creación de objetos y clases en JS"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://luceroluciano.github.io/my_launchx_blog/posts/post_2/"/>
+    
+    <meta property="og:description" content="En este post estare compartiendo mi aprendizaje sobre objetos y clases con JS"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@Luz61502465"/>
+    <meta name="twitter:creator" content="@Luz61502465"/>
+  
+
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet"> 
+</head>
+
+
+
+
+<body class='page frame page-blog-single'>
+  <div id="wrapper" class="wrapper">
+    <div class='header'>
+  <a class="header-logo" href="https://luceroluciano.github.io/my_launchx_blog/">Bitácora de Viaje de Lucero</a>
+  <div class="menu-main">
+    <ul>
+        
+        
+            <li class="menu-item-about">
+                <a href="../../pages/about/">About</a>
+            </li>
+        
+            <li class="menu-item-posts">
+                <a href="../../posts/">Posts</a>
+            </li>
+        
+    </ul>
+  </div>
+</div>
+    
+  <div class="blog">
+    
+    <div class="intro">
+      <h1>Creación de objetos y clases en JS<span class="dot">.</span></h1>
+      
+    </div>
+    <div class="content">
+      <h1 id="hola-de-nuevo-sabías-que-somos-objetos">Hola de nuevo!, ¿Sabías que somos objetos?.</h1>
+<p>Un pocoo de contexto. Los objetos son cosas de la videa real, sí, son todas aquellas cosas que puedes
+ver o tocar, por ejemplo: una guitarra, un lapiz, una planta, un perro o un gato, ademas de
+ser seres vivos son objetos como nosotros pero, ¿qué tienen en comun todos ellos?, sencillo, todos y
+cada uno de los objetos mencionados tienen:</p>
+<ul>
+<li>nombre</li>
+<li>color</li>
+<li>tamaño</li>
+<li>material (en el caso de la guitarra y el lapíz)</li>
+<li>raza (en el el caso del perro y el gato)</li>
+<li>edad</li>
+</ul>
+<p>Todos estos atributos son caracteristicas de un objeto y a continuacón te mostrare como se crea un objeto
+en Java Script.</p>
+<p>1.-Crear una variable que contendra los atributos del objeto. Ejemplo:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">  const dog = {
+    name: &#34;Raspi&#34;,
+    age: 2
+    color: &#34;Black&#34;
+    size: 50    
+  }
+  
+  console.log(dog)
+</code></pre></div><p>2.-Crear un objeto <em>humano</em> con sus atributos (Por esta razón es que somos objetos, porque tenemos caracteristicas, en programación
+son conocidos como <strong>Atributos</strong>).
+Para este ejemplo los atributos son los siguientes:</p>
+<ul>
+<li>nombre</li>
+<li>edad</li>
+<li>genero</li>
+<li>nacionalidad</li>
+<li>actividades que realiza: comer, caminar, trabajar, estudiar, dormir</li>
+</ul>
+<p>Ahora modelemos el objeto. Ejemplo:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">  const human = {
+    name: &#34;Yuri&#34;,
+    age: 20
+    gender: &#34;Female&#34;
+    nationality: &#34;Japanese&#34;
+    activities: [&#34;Eat&#34;, &#34;Walk&#34;, &#34;Work&#34;, &#34;Study&#34;, &#34;Sleep&#34;]
+  }
+  
+  console.log(human)
+</code></pre></div><h3 id="clases">Clases</h3>
+<p>Las clases son el molde con el que podemos crear n cantidad de objetos, por ejemplo; la clase humana,
+dentro de esta clase hay objetos como, hombres, mujeres, niños, niñas, adultos, etc. Para entender este
+concepto, veamos un ejemplo.</p>
+<p>1.-Para este caso hablaremos de animales. Como primer punto tendremos una clase animal, con los siguientes caracteristicas:</p>
+<ul>
+<li>nombre, raza, edad, alimentación
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">  class Animal {
+    constructor(name, breed, age, food){
+      this.name = name
+      this.breed = breed
+      this.age = age
+      this.food = food
+    }
+  }
+
+  // Aqui creamos un objeto y a esto se le llama (INSTANCIAR OBJETO)
+  const dog = new Animal(&#34;Astro&#34;, &#34;Pastor Aleman&#34;, 3, &#34;Croqueta Chapete&#34;)
+  console.log(dog)
+
+  //Aqí creamos un segundo objeto (INSTANCIAMOS OBJETO 2)
+  const cat = new Animal(&#34;Kiera&#34;, &#34;Michi&#34;, 3, &#34;Wiskas&#34;)
+  console.log(cat)
+
+  const cat2 = new Animal(&#34;Kucha&#34;, &#34;Silvestre&#34;, 5, &#34;Atun&#34;)
+  console.log(cat2)
+
+  const cat3 = new Animal(&#34;Bruno&#34;, &#34;Silvestre&#34;, 1, &#34;Croquetas gato fiel&#34;)
+  console.log(cat3)               
+
+</code></pre></div></li>
+</ul>
+<p>CONCEPTOS NUEVOS:</p>
+<ul>
+<li><strong>Constructor</strong> es para inicializar los valores de un objeto</li>
+<li><strong>this</strong> es una palabra reservada de Java Script para hacer referencia a los valores del objeto</li>
+<li><strong>Instanciar un objeto</strong> es crear un nuevo objeto con los valores definidos en la clase</li>
+</ul>
+<p>Objetos sin clase:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">  // Objetos sin clase
+    
+    const cat = {
+      name: &#34;Kiera&#34;,
+      breed: &#34;Michi&#34;,
+      age: 3,
+      food: &#34;Wiskas&#34;
+    }    
+    console.log(cat)
+    
+    const cat2 = {
+      name: &#34;Kucha&#34;,
+      breed: &#34;Silvestre&#34;,
+      age: 5,
+      food: &#34;Atun&#34;,
+    }    
+    console.log(cat2)
+    
+    const cat3 = {
+      name: &#34;Bruno&#34;,
+      breed: &#34;Silvestre&#34;,
+      age: 1,
+      food: &#34;Croquetas gato fiel&#34;
+    }    
+    console.log(cat3)
+</code></pre></div><p>Como viste en el ejemplo anterior, las clases nos ayudan a reutilizar código y nos ayudan bastante para optimizar
+un proyecto, qué pasaria si NO utilizaras clases y tuvieras que crear/escribir las caracteristicas de 10 michis,
+talvez seria facil para 10 michis, pero, ¿Qué pasaria si fueran 100, 1000 o más michis? 😱</p>
+<h4 id="gracias-por-leerme-nos-vemos-en-el-siguiente-post-">Gracias por leerme. Nos vemos en el siguiente post 🚀.</h4>
+
+    </div>
+  </div>
+
+    <div class="footer">
+  
+  <div class="footer-social">
+    
+      <span class="social-icon social-icon-twitter">
+        <a href="https://twitter.com/luz61502465" title="twitter" target="_blank" rel="noopener">
+          <img src="../../images/social/twitter.svg" width="24" height="24" alt="twitter"/>
+        </a>
+      </span>
+    
+      <span class="social-icon social-icon-github">
+        <a href="https://github.com/LuceroLuciano" title="github" target="_blank" rel="noopener">
+          <img src="../../images/social/github.svg" width="24" height="24" alt="github"/>
+        </a>
+      </span>
+    
+  </div>
+  
+</div>
+  </div>
+
+  
+
+  
+
+  
+  <script type="text/javascript" src="../../js/bundle.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js"></script>
+  
+
+  
+  
+
+  
+  
+  
+    
+  
+
+
+</body>
+</html>
