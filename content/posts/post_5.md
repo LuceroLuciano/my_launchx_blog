@@ -1,5 +1,5 @@
 ---
-title: "Miedos de los desarrolladores de software"
+title: "Babel"
 date: 2022-06-22
 description: '¿Cuáles son tus tres miedo mas grandes como desarrollador(a) de software?'
 ---
