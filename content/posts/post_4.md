@@ -4,7 +4,7 @@ date: 2022-06-22
 description: '¿Cuáles son tus tres miedo mas grandes como desarrollador(a) de software?'
 ---
 
-Hace dos meses tuve la oportunidad ser parte de LaunchX, un bootcamp lleno de aprendizaje, diversión, 
+En Enero del 2022 tube la oportunidad ser parte de LaunchX, un bootcamp lleno de aprendizaje, diversión, 
 conocimiento y buenas experiencias. Mi MC [Carlo](https://github.com/carlogilmar) quien estubo a cargo de la misión 
 NodeJS nos pidio a todos los explorers que escribieramos sobre nuestros tres miedos respecto a la idea de ser developers. 
 <br><br>
@@ -110,6 +110,9 @@ Fuerón muchas las respuestas de los explores, algunos miedos eran distintos mie
 98. Tener un trabajo abusivo 
 99. No aprender lo suficientemente rapido
 100. Sentirme inutil y no creer en mi
+101. Creer que sé algo cuando en realidad no lo sé
+102. Que lxs demas se den cuenta que no se porque casi no hablo
+103. Que lxs demas tengan grandes espectativas de mi pero no es asi
 
 
 La lista contua, quiza se repitieron algunos miedos o se escribierón con otras palabras pero tienen el mismo significado, la lista son todos los miedos de cada uno de los explorers y nuestro MC. 
@@ -120,4 +123,4 @@ En mi caso, mis mayores tres miedos respecto a ser una desarrolladora de softwar
 3. Que le mueva al código y que todo truene
 <br>
 
-y tu, ¿Cuáles son tus tres miedos respecto a la idea de ser un(a) desarrollador(a)?,<br> ¿Te identificas con algun miedo de la lista?
+y tú, ¿Cuáles son tus tres miedos respecto a la idea de ser un(a) desarrollador(a)?,<br> ¿Te identificas con algun miedo de la lista?
